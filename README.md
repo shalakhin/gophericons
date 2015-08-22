@@ -6,7 +6,7 @@ Original images from Go site were put into png and ai while all rights on them b
 
 ![preview some of these images](preview.jpg)
 
-Gopher images (30+) for Go developers community
+34 gopher images for Go developers community
 
 Thanks to Olga Shalakhina (https://www.facebook.com/olga.shalakhina) for work on this.
 
