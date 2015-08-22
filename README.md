@@ -2,7 +2,7 @@
 
 ## License
 
-http://www.wtfpl.net/
+Original images from Go site we're put into png and ai while all rights on them belong to their authors. We added some new images and rights for them belong to Olga. If you can update this license and improve it please do this with PR.
 
 ![preview some of these images](preview.jpg)
 
